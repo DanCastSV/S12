@@ -25,7 +25,7 @@ html = """
 <!DOCYPE html>
 <html>
 <body>
-<h1>Estimado {}</h1>
+<h1>Estimad@ {}</h1>
 <p>{}</p>
 </body>
 </html>
